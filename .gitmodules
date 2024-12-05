@@ -1,0 +1,3 @@
+[submodule "deps/blimp_comm"]
+	path = deps/blimp_comm
+	url = https://github.com/TK-A369/blimp_comm.git
